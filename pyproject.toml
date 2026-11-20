@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "scfpublic"
-version = "1.0.4"
+version = "1.0.5"
 description = "A package for downloading the public files for the Federal Reserve's Survey of Consumers Finances (SCF) 1989-2025 and properly apply multiple imputation and sampling variance calculations."
 readme = "README.md"
 requires-python = ">=3.8"
