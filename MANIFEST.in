@@ -1,0 +1,10 @@
+include README.md
+include LICENSE.md
+include pyproject.toml
+recursive-include examples *.ipynb *.py
+recursive-include docs *.md *.rst
+recursive-include tests *.py
+recursive-include src/scfpublic *.json *.csv *.txt
+exclude .gitignore
+global-exclude __pycache__
+global-exclude *.py[cod]

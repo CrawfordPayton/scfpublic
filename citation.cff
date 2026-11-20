@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite using the metadata from this file."
+title: "scfpublic"
+authors:
+  - family-names: "Crawford"
+    given-names: "Payton"
+    email: paytonscrawford@outlook.com
+    affiliation: Federal Reserve Board
+keywords:
+  - "python"
+  - "SCF"
+  - "Survey"
+  - "Consumer"
+  - "Finances"
+  - "Wealth"
+  - "Economics"
+  - "Imputation"
+  - "Replicates"
+version: "1.0.0"
+date-released: "2026-11-19"
+license: "MIT"
+repository-code: "https://github.com/CrawfordPayton/scfpublic"
