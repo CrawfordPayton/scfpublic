@@ -67,7 +67,7 @@ From anywhere in your terminal, run `pip install scfpublic`. This will run comma
             - `aconv` - Annual conversion function
             - `mconv` - Monthly conversion function
 
-Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.0. https://github.com/CrawfordPayton/scfpublic.
+Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.1. https://github.com/CrawfordPayton/scfpublic.
 
 Bibliography:
 

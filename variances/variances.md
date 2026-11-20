@@ -114,7 +114,7 @@ $$
 ## 4. Programs for Computing Combined Standard Error
 ### 4.1 Python Package scfpublic
 The Python package `scfpublic` allows the user to download and use SCF data. An additional subpackage, `scfcombo`, formats the SCF data and replicate weights with the function `scf_prepare_data()`, and standard errors are calculated with the function `scf_estimate()`, which takes the prepared data and a user-defined function. For convenience, wrapper functions for means, quantiles, and regressions are available as examples. Full documentation is available [here](https://github.com/CrawfordPayton/scfpublic/blob/main/variances/variances.md).<br>
-&emsp;Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.0. https://github.com/CrawfordPayton/scfpublic.
+&emsp;Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.1. https://github.com/CrawfordPayton/scfpublic.
 
 ### 4.2 Stata Module SCFCOMBO
 The user-written .ado file, SCFCOMBO, for Stata calculates and combines the imputation uncertainty and bootstrapped standard errors for estimation commands run on the SCF. It can be installed in Stata using `ssc install scfcombo`. Full documentation is available [here](https://ideas.repec.org/c/boc/bocode/s458017.html).<br>
