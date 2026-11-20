@@ -16,7 +16,7 @@ keywords:
   - "Economics"
   - "Imputation"
   - "Replicates"
-version: "1.0.3"
+version: "1.0.4"
 date-released: "2026-11-19"
 license: "MIT"
 repository-code: "https://github.com/CrawfordPayton/scfpublic"

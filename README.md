@@ -67,8 +67,8 @@ From anywhere in your terminal, run `pip install scfpublic`. This will run comma
             - `aconv` - Annual conversion function
             - `mconv` - Monthly conversion function
 
-Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.3. https://github.com/CrawfordPayton/scfpublic.
+Citation: Payton Crawford (2026). scfpublic. Python package. ver. 1.0.4. https://github.com/CrawfordPayton/scfpublic.
 
 Bibliography:
 
-&emsp;Board of Governors of the Federal Reserve System. (2026). 2025 Survey of Consumer Finances [Dataset]. https://doi.org/10.17016/8799.1.
+&emsp;Board of Governors of the Federal Reserve System. (2026). 2025 Survey of Consumer Finances [Dataset]. https://doi.org/10.17016/datasets.001.
